@@ -3,8 +3,6 @@
 A compact, conveyor-based prototype for automatically separating non-ferrous metals from mixed material streams using electromagnetic induction.
 
 **Project period:** November 2024 - January 2025  
-**Built by:** Karthik SB  
-**Tools:** AutoCAD, Fusion 360, Arduino IDE, MIT App Inventor
 
 <p align="center">
   <img src="media/prototype/build.jpg" alt="Fabricated components and magnetic roller assembly" width="720">
