@@ -64,13 +64,6 @@ The prototype separated aluminium, copper, and brass samples in multiple shapes,
 
 The current gallery contains the fabrication and component collage above. Add final assembly, operating, and sorted-output photographs to [`media/prototype`](media/prototype/) using the guide in that folder.
 
-<!--
-Recommended additions after placing the files in media/prototype/:
-
-![Completed separator](media/prototype/completed-separator.jpg)
-![Separator operating](media/prototype/separator-operating.jpg)
-![Separated output](media/prototype/separated-output.jpg)
--->
 
 ## Repository contents
 
@@ -81,7 +74,6 @@ Recommended additions after placing the files in media/prototype/:
 │   ├── models/         # Placeholder for native/neutral 3D CAD exports
 │   ├── renders/        # Fusion 360 component renders
 │   └── source/         # Original AutoCAD DWG
-├── docs/               # Full 23-page project report
 ├── media/prototype/    # Physical build photographs
 └── README.md
 ```
@@ -93,9 +85,6 @@ Recommended additions after placing the files in media/prototype/:
 
 ## Future improvements
 
-- Use a stronger magnetic array at a higher controlled rotor speed.
-- Add a uniform feeding or crushing stage for repeatable sample geometry.
-- Build an adjustable splitter/collection system for different throw distances.
+- Switch to an Electromagnet based system
 - Measure separation efficiency, purity, throughput, and power consumption over larger test sets.
 
-> **Safety:** This prototype uses strong magnets, exposed high-speed rotating components, and mains-powered motor control. Reproduce or operate it only with suitable guards, emergency isolation, and supervision.
