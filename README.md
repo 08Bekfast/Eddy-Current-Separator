@@ -7,7 +7,7 @@ A compact, conveyor-based prototype for automatically separating non-ferrous met
 **Tools:** AutoCAD, Fusion 360, Arduino IDE, MIT App Inventor
 
 <p align="center">
-  <img src="media/prototype/fabrication-components-collage.jpg" alt="Fabricated components and magnetic roller assembly" width="720">
+  <img src="media/prototype/build.jpg" alt="Fabricated components and magnetic roller assembly" width="720">
 </p>
 
 ## Project ownership
