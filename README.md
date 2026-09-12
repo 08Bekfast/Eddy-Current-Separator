@@ -8,10 +8,6 @@ A compact, conveyor-based prototype for automatically separating non-ferrous met
   <img src="media/prototype/build.jpg" alt="Fabricated components and magnetic roller assembly" width="720">
 </p>
 
-## Project ownership
-
-I independently completed the mechanical design, CAD work, fabrication coordination, assembly, electronics and app integration, testing, and project documentation. The college report followed the assigned group-submission format; this repository documents the engineering work I personally carried out.
-
 ## How it works
 
 Material travels along a conveyor and passes over a high-speed permanent-magnet rotor. The rotor produces a rapidly changing magnetic field, which induces eddy currents in conductive, non-ferrous pieces. Their opposing magnetic field creates a repulsive force, throwing them farther than non-conductive material and enabling physical separation.
@@ -26,15 +22,6 @@ Material travels along a conveyor and passes over a high-speed permanent-magnet 
 | Sensing | 20 kg load cell, HX711 amplifier, ultrasonic bin-level sensor |
 | Control and telemetry | Arduino Uno, HC-05 Bluetooth module, and MIT App Inventor interface |
 | Mechanical design | AutoCAD fabrication drawings and Fusion 360 component models/renders |
-
-## Design and build
-
-- Designed the magnetic roller shaft, drive roller, PVC shell, flanges, and left/right mounting brackets.
-- Coordinated fabrication using EN-8 steel, aluminium, nylon, and PVC components.
-- Built and aligned the conveyor, bearings, shafts, motors, chain drive, and guards.
-- Upgraded the magnetic-roller motor from 1478 RPM to approximately 3000 RPM after early tests showed insufficient ejection force.
-- Changed the conveyor gearbox from 7.5:1 to 15:1 to reduce belt speed and improve sorting.
-- Calibrated the load-cell system and transmitted live weight data to a mobile app over Bluetooth.
 
 ## Test results
 
